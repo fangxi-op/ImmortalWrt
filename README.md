@@ -1,7 +1,7 @@
 个人维护固件，不保证稳定性
 
 目前维护的型号：
-x86，nanopi-r2s，nanopi-r4s，nanopi-r4se，nanopi-r6c
+x86，nanopi-r2s，nanopi-r2c，nanopi-r2c-plus，nanopi-r3s，nanopi-r4s，nanopi-r4se，nanopi-r6c
 
 192.168.100.1
 密码空
